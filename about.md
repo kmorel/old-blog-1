@@ -1,25 +1,27 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, themes, simple, minimal, minimalism, responsive]
+title: Allow myself to introduce... myself
+tags: [Kenneth Moreland, about, introduction]
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: no-respect.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+My name is Kenneth Moreland, and I have a blog.  Why have I created this
+site?  Because apparently I have too much time on my hands.
 
-## So Simple Theme is all about:
+Lately I have been amusing myself with various geeky projects that one
+might call hobbies.  Every once in a while a get an urge to record what I'm
+doing in an effort to show off to anyone unlucky enough to be in the
+general vicinity.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
+I also have a [professional web site](http://www.sandia.gov/~kmorel) where
+I post the formal work I do for my job and a [Facebook
+page](http://facebook.com/kenneth.moreland.7) where I post short snippets
+of daily life.  The posts on this site fall between these other two.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+By the way, the only reason these pages look so nice is because I ripped
+off the style from the [So Simple
+Theme](http://mmistakes.github.io/so-simple-theme/), so I give a big shout
+out to [Michael Rose](http://mademistakes.com/about.html) for designing it
+and making it publicly available.
