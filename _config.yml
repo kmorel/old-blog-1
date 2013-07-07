@@ -1,52 +1,54 @@
-title:            So Simple Theme
-description:      A simple and clean responsive Jekyll theme for words and photos.
+title:            The Blog of Dr. Moron
+description:      "&ldquo;What kind of doctor are you?&rdquo; &ldquo;The pretentious kind.&rdquo;"
 logo:             site-logo.png
-disqus_shortname: sosimpletheme
+disqus_shortname: kmorel
 #Comment out url when working locally to resolve base urls correctly
-url:              http://mmistakes.github.io/so-simple-theme
+#url:              http://kmorel.github.io
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         michael-rose-photo.jpg
-  email:          michael@mademistakes.com
+  name:           Kenneth Moreland
+  avatar:         kenneth-moreland-photo.jpg
+  gravatar-hash:  a0ab8baa182c61ba892c4a8775b10001
+  email:          kmorel@sandia.gov
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        "mmistakes"
-  facebook:       "michaelrose"
-  github:         "mmistakes"
-  linkedin:       "michaelrose"
-  instagram:      "mmistakes"
-  tumblr:         "mademistakes"
+  #twitter:        "kmorel"
+  facebook:       "kenneth.moreland.7"
+  github:         "kmorel"
+  linkedin:       "kmorel"
+  #instagram:      "kmorel"
+  #tumblr:         "kmorel"
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/118238196859537351707"
+  google_plus:    "http://plus.google.com/101262760714548326608"
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-2
-google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+#google_analytics:   UA-2011187-2
+#google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
+#bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
 
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: About
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Professional Activities
+    url: http://www.sandia.gov/~kmorel
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Denver
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+#permalink:   /:title
 
 kramdown:
   auto_ids: true

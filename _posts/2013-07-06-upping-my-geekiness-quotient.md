@@ -2,10 +2,10 @@
 layout: post
 title: "Upping My Geekiness Quotient"
 description: "My first blog and I chose to write this?"
-category: 
+category: musing
 tags: []
+comments: true
 ---
-{% include JB/setup %}
 
 I think it is time to up my geekiness quotient.  I know; I'll start a blog.
 
