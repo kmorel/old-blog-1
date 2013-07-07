@@ -34,8 +34,6 @@ links:
     url: /
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
   - title: Professional Activities
     url: http://www.sandia.gov/~kmorel
     external: true
