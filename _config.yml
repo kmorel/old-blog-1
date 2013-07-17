@@ -3,7 +3,7 @@ description:      "&ldquo;What kind of doctor are you?&rdquo; &ldquo;The pretent
 logo:             site-logo.png
 disqus_shortname: kmorel
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://kmorel.github.io
+#url:              http://drmoron.org
 
 # Owner/author information
 owner:
@@ -45,8 +45,8 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-#permalink:   /:title
+#permalink:   /:categories/:title
+permalink:   /:title
 
 kramdown:
   auto_ids: true
