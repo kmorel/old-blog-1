@@ -1,0 +1,20 @@
+## How to Use Color
+
+
+How many of us have to make figures for reports, presentations, or papers?
+Probably anybody willing to read the technobabble on this site. Many of
+these figures will incorporate color, as it can be a powerful medium for
+conveying or enhancing information &mdash; when used correctly. However,
+the human visual system has a complicated, nonlinear response to color so
+that when used incorrectly color can serve to mislead rather than inform.
+
+The following is based on a presentation I gave geared to a group of
+students interning this summer at Sandia National Laboratories. This is a
+high level introduction on what color means and how it can be effectively
+used.
+
+This post comprises to major parts. The first part gives a high level
+review of the psychophysics of color and an overview of our
+perceptual interpretation. The second part takes this information and
+provides specific advise on how to most effectively use color to convey
+information.
