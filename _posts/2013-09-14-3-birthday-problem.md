@@ -55,8 +55,8 @@ take the inverse. There is your solution.
 </div>
 
 <figure style="float:right; width:300px;">
-  <a href="/images/plot-2-birthday.png">
-    <img src="/images/plot-2-birthday.png"
+  <a href="/images/3-birthday-problem/plot-2-birthday.png">
+    <img src="/images/3-birthday-problem/plot-2-birthday.png"
          alt="Duplicate birthday probabilities"
          width="300"
          height="180">
@@ -105,8 +105,8 @@ times. For those who would like to run the simulator yourself, I have [the
 code posted here](https://gist.github.com/kmorel/6567225).
 
 <figure style="float:right; width:300px;">
-  <a href="/images/plot-3-birthday.png">
-    <img src="/images/plot-3-birthday.png"
+  <a href="/images/3-birthday-problem/plot-3-birthday.png">
+    <img src="/images/3-birthday-problem/plot-3-birthday.png"
          alt="Triple duplicate birthday probabilities"
          width="300"
          height="180">
@@ -136,8 +136,8 @@ larger counts (you just have to wait longer). If you took a look at my
 already noticed that it measures up to 6 simultaneous birthdays.
 
 <figure style="float:right; width:300px;">
-  <a href="/images/plot-6-birthday.png">
-    <img src="/images/plot-6-birthday.png"
+  <a href="/images/3-birthday-problem/plot-6-birthday.png">
+    <img src="/images/3-birthday-problem/plot-6-birthday.png"
          alt="Sextuple duplicate birthday probabilities"
          width="300"
          height="180">
@@ -159,8 +159,8 @@ bends upward.
 <div style="clear:both"></div>
 
 <figure style="float:right; width:300px;">
-  <a href="/images/plot-birthday-trend.png">
-    <img src="/images/plot-birthday-trend.png"
+  <a href="/images/3-birthday-problem/plot-birthday-trend.png">
+    <img src="/images/3-birthday-problem/plot-birthday-trend.png"
          alt="Birthday problem trend"
          width="300"
          height="180">

@@ -79,7 +79,7 @@ flip-flop is designed to change its state when it receives a signal and
 then continue to hold that state after the signal is released.
 
 <figure style="float:right; width:300px;">
-  <img src="/images/animated-s-r-flip-flop.gif"
+  <img src="/images/mechanical-computer/animated-s-r-flip-flop.gif"
        alt="SR Flip-Flop"
        width="300"
        height="219">
@@ -109,10 +109,10 @@ bypasses all these problems by building the flip-flop without any gates at
 all.  A simple device is shown below.
 
 <figure>
-  <img src="/images/simple-flip-flop-0.jpg"
+  <img src="/images/mechanical-computer/simple-flip-flop-0.jpg"
        alt="Mechanical flip-flop 0"
        width="100%">
-  <img src="/images/simple-flip-flop-1.jpg"
+  <img src="/images/mechanical-computer/simple-flip-flop-1.jpg"
        alt="Mechanical flip-flop 1"
        width="100%">
   <figcaption>
@@ -134,7 +134,7 @@ then activate it with a clock signal.  Both of these are demonstrated
 below.
 
 <figure>
-  <img src="/images/gated-flip-flop.jpg"
+  <img src="/images/mechanical-computer/gated-flip-flop.jpg"
        alt="Gated mechanical flip-flop."
        width="100%">
   <figcaption>
