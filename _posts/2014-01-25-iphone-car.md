@@ -27,7 +27,7 @@ replaced them with a new control mechanism. Here is a demonstration of the
 result.
 
 <div style="clear:both">
-&lt;iframe width="420" height="315" src="//www.youtube.com/embed/LfFbX2GgPnE" frameborder="0" allowfullscreen>&lt;/iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/aZkhbrBwe_s" frameborder="0" allowfullscreen></iframe>
 </div>
 
 I have no interest in detailing all the steps involved in the project. You
@@ -72,8 +72,11 @@ helpful. It turns out Radio Shack now sells quite a bit of Arduinos and
 equipment, and I got a great deal on a prefabricated motor shield with
 twice the amperage rating as my previous circuit.
 
-<figure style="float:right; width=400;">
-  **Image of Motor Shield**
+<figure style="float:right; width=400px;">
+  <a href="/images/iphone-car/motorshield.jpg">
+    <img src="/images/iphone-car/motorshield-thumb.jpg"
+         alt="BLE Shield" width="400" height="300">
+  </a>
   <figcaption>
     The circuit driving the RC motors.
   </figcaption>
@@ -112,8 +115,11 @@ So I guess being stupid and lazy isn't so bad after all.
 
 ### Red Bears and Blue Teeth
 
-<figure style="float:right; width=400;">
-  **Image of BLE Shield**
+<figure style="float:right; width=400px;">
+  <a href="/images/iphone-car/bleshield.jpg">
+    <img src="/images/iphone-car/bleshield-thumb.jpg"
+         alt="BLE Shield" width="400" height="300">
+  </a>
   <figcaption>
     The Arduino RedBearLabs Bluetooth low energy shield.
   </figcaption>
@@ -156,6 +162,13 @@ program for a variety of reasons.
   control the direction.
   
 ### Final Remarks
+
+<figure style="float:right; width=400px;">
+  <a href="/images/iphone-car/fullcar.jpg">
+    <img src="/images/iphone-car/fullcar-thumb.jpg"
+         alt="BLE Shield" width="400" height="300">
+  </a>
+</figure>
 
 There is something rousing about watching a physical device like an RC car
 under the control of the all-purpose, portable, tricorder-like device, and
