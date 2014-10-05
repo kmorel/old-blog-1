@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about
+
+- title: Professional Activities
+  url: http://www.sandia.gov/~kmorel
+  external: true

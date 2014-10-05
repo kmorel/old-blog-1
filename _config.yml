@@ -1,66 +1,56 @@
-title:            The Blog of Dr. Moron
-description:      "I blog because there is no peer review like no peer review."
-logo:             site-logo.png
-disqus_shortname: kmorel
-#Comment out url when working locally to resolve base urls correctly
-#url:              http://drmoron.org
+# Site wide configuration
 
-# Owner/author information
-owner:
-  name:           Kenneth Moreland
-  avatar:         kenneth-moreland-photo.jpg
-  gravatar-hash:  a0ab8baa182c61ba892c4a8775b10001
-  email:          kmorel@sandia.gov
-  # Social networking links used in footer. Update and remove as you like.
-  #twitter:        "kmorel"
-  facebook:       "kenneth.moreland.7"
-  github:         "kmorel"
-  linkedin:       "kmorel"
-  #instagram:      "kmorel"
-  #tumblr:         "kmorel"
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/101262760714548326608"
-
-# Analytics and webmaster tools stuff goes here
-#google_analytics:   UA-2011187-2
-#google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-#bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Professional Activities
-    url: http://www.sandia.gov/~kmorel
-    external: true
+title: The Blog of Dr. Moron
+locale: en_US
+description: "I blog because there is no peer review like no peer review."
+#logo: site-logo.png
+search: true
+url: 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Denver
-future:      true
-pygments:    true
-markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-#permalink:   /:categories/:title
-permalink:   /:title
+# Jekyll configuration
+
+permalink:   /:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..2
   use_coderay: false
 
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "so-simple-theme.sublime-project", "so-simple-theme.sublime-workspace"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Kenneth Moreland
+  avatar: kenneth-moreland-photo.jpg
+  gravatar-hash:  a0ab8baa182c61ba892c4a8775b10001
+  email: kmorel@sandia.gov
+  disqus-shortname: kmorel
+  twitter: #username
+  facebook: "kenneth.moreland.7"
+  github: "kmorel"
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: "kmorel"
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: "http://plus.google.com/101262760714548326608"
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
