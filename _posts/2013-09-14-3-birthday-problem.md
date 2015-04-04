@@ -83,7 +83,7 @@ problem although it leads me to suspect the probability is greater than
 what intuition would tell you.
 
 So what is the probability for, given a group of people, that three have
-the same birthday. The answer is... I don't know. The trick I used for a
+the same birthday? The answer is... I don't know. The trick I used for a
 pair of people doesn't work for 3, and the counting just gets too
 complicated for my little brain.
 
