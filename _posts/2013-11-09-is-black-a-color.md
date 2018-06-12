@@ -87,7 +87,7 @@ blue.
   <img src="/images/is-black-a-color/color-cube.png"
        alt="Color Cube"
        width="300"
-       height="240">
+       height="241">
   <figcaption>
     The RGB color space.
   </figcaption>
