@@ -2,7 +2,7 @@
 layout: post
 title: "Lego Mechanical Computer"
 category: computation
-tags: [ mechanical computer, Legos, flip-flop ]
+tags: [ mechanical computer, LEGO, flip-flop ]
 comments: true
 ---
 
