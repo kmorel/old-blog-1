@@ -174,7 +174,7 @@ such conclusions.
 
 [^owid-data-source]: As stated, the data used in this blog can be pulled
     from [this link][the data on October 30, 2021]. Python code to generate
-    the plot is [here](https://github.com/kmorel/kmorel.github.io/blob/master/images/vaccine-correlations/vaccinevislie.ipynb).
+    the plot is [here](https://github.com/kmorel/kmorel.github.io/blob/master/images/vaccine-correlations/vaccination-infection-countries.ipynb).
 
 [^perhaps]: Never trust a sentence that uses the word "perhaps." "Perhaps"
     is a qualifier that absolves the speaker from providing any evidence
